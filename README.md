@@ -1,1 +1,3 @@
-"# mysql-bootcamp" 
+# MySQL Bootcamp
+
+MySQL notes and excercises
